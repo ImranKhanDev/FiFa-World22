@@ -316,7 +316,9 @@ a {
       font-size: 28px;
       margin-right: 45px;
 }
-
+.match-video img {
+      padding-top:55px;
+}
 
 /* previous match ends  */
 
